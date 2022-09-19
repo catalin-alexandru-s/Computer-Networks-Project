@@ -1,0 +1,2 @@
+# Computer-Networks-Project
+Develop a client/server application which offers the functionality of a password manager. The app will be a concurrent server in which many clients can use the application at the same time, every user being able to login via password. Each user has the ability to organize the saved passwords in different categories, and for every password there will be the possibility of adding data such as title, usernames, URLs, notes etc.
