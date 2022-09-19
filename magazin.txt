@@ -1,0 +1,3 @@
+emag,notes:buy-a-mouse
+flanco,url
+parola:parola
